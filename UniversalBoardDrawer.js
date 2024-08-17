@@ -1,10 +1,3 @@
-/* UniversalBoardDrawer.js
- - Version: 1.3.3
- - Author: Haka
- - Description: A userscript library for seamlessly adding chess move arrows to game boards on popular platforms like Chess.com and Lichess.org
- - GitHub: https://github.com/Hakorr/UniversalBoardDrawer
-*/
-
 class UniversalBoardDrawer {
     constructor(boardElem, config) {
         this.boardElem = boardElem;
